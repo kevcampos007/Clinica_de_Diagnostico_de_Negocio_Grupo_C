@@ -15,7 +15,6 @@ Necesita Git y Python 3 con `pip`. Clone el repositorio y entre en la carpeta cr
 
 ```bash
 git clone https://github.com/kevcampos007/Cl-nica-de-Diagn-stico-de-Negocio---Grupo-C.git clinica-diagnostico-negocio
-cd clinica-diagnostico-negocio
 ```
 
 Después de clonar, compruebe que aparezcan los notebooks y CSV de la tabla anterior. Si aún no están publicados en el repositorio remoto, use la carpeta de entrega que contiene estos archivos. Si ya los tiene descargados, omita la clonación y abra una terminal en esa carpeta. Los notebooks buscan sus datos desde el directorio de trabajo del kernel.
