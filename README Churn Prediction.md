@@ -21,7 +21,7 @@ Se comparan Regresión Logística y Random Forest Classifier. La selección se h
 
 ## Ejecución
 
-Siga la clonación, instalación y apertura de Jupyter descritas en [README General](README%20General.md). Desde la carpeta del repositorio, abra el notebook del Caso A, seleccione el kernel con las dependencias y ejecute todas las celdas desde el inicio. El CSV del Caso B no interviene. La primera celda puede instalar dependencias faltantes en el entorno del kernel.
+Siga la clonación, instalación y apertura de Jupyter descritas en [README general](README.md). Desde la carpeta del repositorio, abra el notebook del Caso A, seleccione el kernel con las dependencias y ejecute todas las celdas desde el inicio. El CSV del Caso B no interviene. La primera celda puede instalar dependencias faltantes en el entorno del kernel.
 
 ## Limitaciones
 

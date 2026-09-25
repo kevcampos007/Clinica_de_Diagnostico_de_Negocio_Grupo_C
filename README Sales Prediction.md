@@ -21,7 +21,7 @@ Se comparan Ridge y Random Forest Regressor con el pronóstico ingenuo del ingre
 
 ## Ejecución
 
-Siga la clonación, instalación y apertura de Jupyter descritas en [README General](README%20General.md). Desde la carpeta del repositorio, abra el notebook del Caso B, seleccione el kernel con las dependencias y ejecute todas las celdas desde el inicio. La celda de construcción **sobrescribe `Sales Prediction.csv`** con la misma simulación determinista (semilla 42). No necesita el archivo original de clientes ni el CSV del Caso A.
+Siga la clonación, instalación y apertura de Jupyter descritas en [README general](README.md). Desde la carpeta del repositorio, abra el notebook del Caso B, seleccione el kernel con las dependencias y ejecute todas las celdas desde el inicio. La celda de construcción **sobrescribe `Sales Prediction.csv`** con la misma simulación determinista (semilla 42). No necesita el archivo original de clientes ni el CSV del Caso A.
 
 ## Limitaciones
 
